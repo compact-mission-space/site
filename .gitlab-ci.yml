@@ -50,7 +50,7 @@ pre-commit:
 check_tag_exists:
   stage: pre
   rules:
-    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event" && $CI_MERGE_REQUEST_TARGET_BRANCH_NAME == $CI_DEFAULT_BRANCH
       when: always
     - when: never
   image:
