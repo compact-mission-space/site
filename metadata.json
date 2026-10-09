@@ -75,7 +75,10 @@
             "id": "00r1edq15",
             "name": "University of Greifswald"
           }
-        ]
+        ],
+        "role": {
+          "id": "datamanager"
+        }
       },
       {
         "person_or_org": {
