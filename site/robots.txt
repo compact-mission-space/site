@@ -1,4 +1,4 @@
-# compact-for-space site
+# compact-mission.space site
 # website: https://compact-mission.space/
 # source: https://gitlab.com/projects/81882967
 # doi: https://doi.org/10.5281/zenodo.21478659

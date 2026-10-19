@@ -1,17 +1,17 @@
 ---
-home: https://gitlab.com/compact-for-space/site/
+home: https://gitlab.com/compact-mission.space/site/
 stable link: https://gitlab.com/projects/81882967
-mirror: https://github.com/compact-for-space/site/
+mirror: https://github.com/compact-mission-space/site/
 doi: https://doi.org/10.5281/zenodo.21478659
 website: https://compact-mission.space/
 ---
 <!--
-SPDX-FileCopyrightText: 2026 COMPACT-for-space contributors
+SPDX-FileCopyrightText: 2026 compact-mission.space contributors
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-# compact-for-space
+# compact-mission.space
 
 This repository contains the source code and build instructions for
 building the [COMPACT website](https://compact-mission.space/).
@@ -76,7 +76,7 @@ has not been used by a previous release (i. e., no existing tag uses it).
 
 Once you have pushed your changes to your fork, open a merge request (MR)
 to the `contributions` branch of the original repository
-([`compact-for-space/site`](https://gitlab.com/compact-for-space/site)).
+([`compact-mission.space/site`](https://gitlab.com/compact-mission.space/site)).
 
 Note: Please do not request a merge into the `main` branch directly.
 All contributions are first reviewed in the `contributions` branch.

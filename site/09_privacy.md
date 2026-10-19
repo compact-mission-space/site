@@ -3,12 +3,12 @@ layout: page
 permalink: /privacy/
 title: privacy
 tagline: Exploring Complex Plasmas in Microgravity
-description: Privacy policy and data protection information for the COMPACT-for-space project website.
+description: Privacy policy and data protection information for the compact-mission.space project website.
 author: Daniel Mohr
 license: CC-BY-SA-4.0
 ---
 <!--
-SPDX-FileCopyrightText: 2026 COMPACT-for-space contributors
+SPDX-FileCopyrightText: 2026 compact-mission.space contributors
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
@@ -85,7 +85,7 @@ above.
 You can contact us regarding data protection issues or general inquiries
 via a GitLab Issue in:
 
-* [gitlab.com/compact-for-space/site](https://gitlab.com/compact-for-space/site/-/work_items/new?type=Issue&initialCreationContext=list-route)
+* [gitlab.com/compact-mission.space/site](https://gitlab.com/compact-mission.space/site/-/work_items/new?type=Issue&initialCreationContext=list-route)
   (stable link: [gitlab.com/projects/81882967](https://gitlab.com/projects/81882967))
 
 For scientific inquiries, please also use the GitLab project mentioned above

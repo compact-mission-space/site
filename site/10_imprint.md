@@ -3,12 +3,12 @@ layout: page
 permalink: /imprint/
 title: imprint
 tagline: Legal Information
-description: Legal notice and imprint for the COMPACT-for-space project website.
+description: Legal notice and imprint for the compact-mission.space project website.
 author: Daniel Mohr
 license: CC-BY-SA-4.0
 ---
 <!--
-SPDX-FileCopyrightText: 2026 COMPACT-for-space contributors
+SPDX-FileCopyrightText: 2026 compact-mission.space contributors
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
@@ -152,10 +152,10 @@ does not embed any external third‑party services (e.g. trackers, analytics,
 or fonts).
 
 Please create an issue in our
-[GitLab Repository](https://gitlab.com/compact-for-space/site/-/issues)
+[GitLab Repository](https://gitlab.com/compact-mission.space/site/-/issues)
 for any technical problems or bugs.
 
-Source Code Repository: [gitlab.com/compact-for-space/site](https://gitlab.com/compact-for-space/site)
+Source Code Repository: [gitlab.com/compact-mission.space/site](https://gitlab.com/compact-mission.space/site)
 (stable link: [gitlab.com/projects/81882967](https://gitlab.com/projects/81882967))
 
 <div>
