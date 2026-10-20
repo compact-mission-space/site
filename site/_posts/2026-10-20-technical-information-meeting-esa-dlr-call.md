@@ -16,7 +16,7 @@ participants to a scheduled Zoom e-meeting.
 
 **Meeting Details:**
 * **Date:** November 2, 2026
-* **Time:** 09:00 AM Central Time (US and Canada) / 15:00 CET (Europe)
+* **Time:** 09:00 AM Central Time (US and Canada) / 16:00 CET (Europe)
 * **Zoom Link:** [Join Meeting](https://auburn.zoom.us/j/88112550193?pwd=4bj8AYbTzhZzdxcMYutvWISnxxTcOG.1)
 * **Password:** 530694
 
