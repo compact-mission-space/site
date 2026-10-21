@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+LAST-MODIFIED:20261009T235635Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20261019T193123Z
+DTSTART;TZID=America/Chicago:20261102T090000
+DTEND;TZID=America/Chicago:20261102T100000
+SUMMARY:COMPACT Technical Information Meeting for ESA/DLR Call
+UID:20261019T193123Z-88112550193@web-prod-us02-va1-webok-7bf59948cf-42nvp
+TZID:America/Chicago
+DESCRIPTION:Uwe Konopka is inviting you to a scheduled Auburn University
+  Zoom e-meeting. If you're a new participant\, we have a quick start guid
+ e here: https://aub.ie/zoomquickstart\n\n\nJoin from PC\, Mac\, Linux\,
+  iOS or Android: https://auburn.zoom.us/j/88112550193?pwd=4bj8AYbTzhZzdxc
+ MYutvWISnxxTcOG.1\n    Password: 530694\nConnect using Computer/Device a
+ udio if possible.\n\nOr Telephone: Meeting ID: 881 1255 0193\n    Dial:
+  +1 646 931 3860 (US Toll) \n        or +1 301 715 8592 (US Toll)\n \n\nO
+ r an H.323/SIP room system:\n    H.323: 144.195.19.161 (US West) or 206.
+ 247.11.121 (US East) \n    Meeting ID: 881 1255 0193\n    Password: 5306
+ 94\n\n    SIP: 88112550193@zoomcrc.com\n    Password: 530694\n\n
+LOCATION:https://auburn.zoom.us/j/88112550193?pwd=4bj8AYbTzhZzdxcMYutvWIS
+ nxxTcOG.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
