@@ -10,7 +10,7 @@ Are you planning to submit a proposal for the
 [joint ESA/DLR Call](https://ideas.esa.int/core/servlet/hype/I
 MT?documentTableId=8284555823688397007&userAction=Browse&templateName=&documentId=b3450f8c658cea962f2161ab762ab7fa)?
 
-Since the date and time of our first Q&A session may not have been optimal for everyone, Uwe Konopka and the team are holding a **second technical information meeting**. 
+Since the date and time of our first Q&A session may not have been optimal for everyone, Uwe Konopka and the team are holding a **second technical information meeting**.
 
 Whether you are interested in responding to the call or simply want more specific information about the capabilities of the most recent COMPACT design, we invite you to join us for this second session.
 
