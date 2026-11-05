@@ -16,7 +16,7 @@ Whether you are interested in responding to the call or simply want more specifi
 
 **Meeting Details:**
 * **Date:** November 16, 2026
-* **Time:** 09:00 AM Central Time (US and Canada) / 16:00 CET (Europe)
+* **Time:** 07:30 AM Central Time (US and Canada) / 14:30 CET (Europe)
 * **Zoom Link:** [Join Meeting](https://auburn.zoom.us/j/88112550193?pwd=4bj8AYbTzhZzdxcMYutvWISnxxTcOG.1)
 * **Password:** 530694
 
